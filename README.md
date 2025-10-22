@@ -16,7 +16,7 @@ I'm a passionate developer from India, currently diving deep into the world of F
 - 👯 I’m looking to collaborate on interesting **Java-based projects**.
 - 💬 Ask me about **Core Java** and **Data Structures**.
 
-- ## 🛠️ Languages and Tools:
+ ## 🛠️ Languages and Tools:
 
 <p align="left">
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
