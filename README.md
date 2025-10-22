@@ -1,10 +1,13 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="50%" alt="Banner">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hey+there,+Kaif+here!;Java+%26+Web+Developer;Building+Awesome+Projects;Always+Learning+and+Growing" alt="Typing SVG" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" alt="Banner">
+    </td>
+    <td>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00FFAA&center=true&vCenter=true&width=400&lines=Hey+there,+Kaif+here!;Java+%26+Web+Developer;Building+Awesome+Projects;Always+Learning+and+Growing" alt="Typing SVG">
+    </td>
+  </tr>
+</table>
 
 
 
