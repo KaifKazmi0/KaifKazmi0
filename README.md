@@ -1,6 +1,11 @@
 <p align="center">
-  <img src="https://images.pexels.com/photos/1089438/pexels-photo-1089438.jpeg" alt="Banner">
+  <img src="https://images.pexels.com/photos/1089438/pexels-photo-1089438.jpeg" width="100%" alt="Banner">
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Hey!+I'm+Chigga;Web+Developer+%26+Engineer;Learning+Machine+Learning+and+DSA" alt="Typing SVG">
+</p>
+
 
 # Hi there, I'm Kaif Kazmi 👋
 
