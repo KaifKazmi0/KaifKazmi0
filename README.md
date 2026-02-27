@@ -1,4 +1,4 @@
-<table align="center">
+k<table align="center">
   <tr>
      <td>
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00FFAA&center=true&vCenter=true&width=400&lines=Hey+there,+Kaif+here!;Java+%26+Web+Developer;Learning+and+Growing" width="500" alt="Typing SVG">
@@ -11,13 +11,26 @@
 
 
 
-# Hi there, I'm Kaif Kazmi 👋
+# Hi 👋 I'm Kaif Kazmi
 
-I'm a passionate developer from India, currently diving deep into the world of Full-Stack Development and AI.
+Backend-focused developer building strong foundations in Java and scalable system design.
 
-- 🌱 I’m currently learning **Spring Boot** and **React**.
-- 👯 I’m looking to collaborate on interesting **Java-based projects**.
-- 💬 Ask me about **Core Java** and **Data Structures**.
+🧠 Core Strengths:
+- Core Java (OOP, Collections, Multithreading, Exception Handling)
+- JDBC & Servlets
+- Spring Core & Spring Boot
+- Spring Data JPA
+- REST API Development
+- Data Structures & Algorithms
+
+🛠 Currently Learning & Building:
+- Spring Security & Microservices
+- Docker & Kafka
+- AWS (EC2, S3, IAM)
+- Production-style backend projects
+
+🎯 Goal:
+To grow into a Backend Engineer specializing in cloud-based and distributed systems.
 
  ## 🛠️ Languages and Tools:
 
@@ -59,6 +72,7 @@ I'm a passionate developer from India, currently diving deep into the world of F
 
 ## 📊 My GitHub Stats
 
-![Kaif's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaifKazmi0&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaifKazmi0&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KaifKazmi0&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaifKazmi0&layout=compact&theme=tokyonight" />
+</p>
