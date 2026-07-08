@@ -1,4 +1,4 @@
-k<table align="center">
+<table align="center">
   <tr>
      <td>
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00FFAA&center=true&vCenter=true&width=400&lines=Hey+there,+Kaif+here!;Java+%26+Web+Developer;Learning+and+Growing" width="500" alt="Typing SVG">
@@ -10,27 +10,27 @@ k<table align="center">
 </table>
 
 
-
 # Hi 👋 I'm Kaif Kazmi
 
-Backend-focused developer building strong foundations in Java and scalable system design.
+Backend-focused developer working primarily with **Java & Spring Boot**, with hands-on experience building, containerizing, and deploying full-stack applications.
 
-🧠 Core Strengths:
-- Core Java (OOP, Collections, Multithreading, Exception Handling)
-- JDBC & Servlets
-- Spring Core & Spring Boot
-- Spring Data JPA
-- REST API Development
-- Data Structures & Algorithms
+I've worked with:
 
-🛠 Currently Learning & Building:
-- Spring Security & Microservices
-- Docker & Kafka
-- AWS (EC2, S3, IAM)
-- Production-style backend projects
+- ☕ Java, Spring Boot, Spring Security & JPA
+- 🔐 REST APIs, JWT Authentication
+- 🗄️ MySQL / MariaDB & Redis
+- 🐳 Docker & Docker Compose
+- ⚛️ React & JavaScript
+- ☁️ AWS EC2 & Nginx
 
-🎯 Goal:
-To grow into a Backend Engineer specializing in cloud-based and distributed systems.
+### 🔨 Currently Exploring
+
+- TypeScript
+- Python for AI & Agentic AI
+- System Design & Microservices
+- AI-assisted development workflows
+
+I like understanding how systems work end-to-end — from frontend requests to backend services, databases, caching, containers, reverse proxies, and deployment.
 
  ## 🛠️ Languages and Tools:
 
